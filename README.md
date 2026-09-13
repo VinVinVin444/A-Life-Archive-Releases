@@ -1,6 +1,6 @@
-# A_LifeArchive
+# A-Life-Archive
 
-A_LifeArchive is a desktop Obsidian plugin for organizing books, movies, music, travel, games, chapter files, indexes, statistics, and personal timelines with Markdown-based data.
+A-Life-Archive is a desktop Obsidian plugin for organizing books, movies, music, travel, games, chapter files, indexes, statistics, and personal timelines with Markdown-based data.
 
 ## Licensing and payment
 
