@@ -1,0 +1,10 @@
+src/
+node_modules/
+build/
+*.map
+data.json
+.obsidian/
+Backups/
+backups/
+.env*
+
