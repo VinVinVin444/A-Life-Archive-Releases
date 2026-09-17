@@ -2,6 +2,28 @@
 
 个人作品与人生档案管理工作台，在一个界面中集中整理书籍、电影、音乐、旅行、游戏、自定义作品、章节资料、统计与时间轴。
 
+## 界面预览
+
+### 亮色主题
+
+<p align="center">
+  <img src="assets/a-life-archive-light-1.png" alt="A-Life-Archive 亮色主题作品管理界面" width="49%">
+  <img src="assets/a-life-archive-light-2.png" alt="A-Life-Archive 亮色主题章节与索引界面" width="49%">
+</p>
+
+### 暗色主题
+
+<p align="center">
+  <img src="assets/a-life-archive-dark-1.png" alt="A-Life-Archive 暗色主题作品管理界面" width="49%">
+  <img src="assets/a-life-archive-dark-2.png" alt="A-Life-Archive 暗色主题章节与时间轴界面" width="49%">
+</p>
+
+### 小岛主题
+
+<p align="center">
+  <img src="assets/a-life-archive-island-1.png" alt="A-Life-Archive 小岛主题界面" width="100%">
+</p>
+
 ## 主要功能
 
 - 通过类型、分组和作品卡片管理个人收藏与长期项目，支持普通、封面和图文三种视图。
